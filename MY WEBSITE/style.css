@@ -1,3 +1,8 @@
+html,
+body {
+    height: 100%;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,8 +11,8 @@
 
 .box {
     color: #fff;
-    height: 100vh;
     padding: 40px;
+    height: 100vh;
 }
 
 .box1 {
@@ -24,8 +29,4 @@
 
 .box4 {
     background: #45CB99;
-}
-
-.box5 {
-    background: #F43959;
 }
